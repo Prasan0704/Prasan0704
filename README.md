@@ -16,5 +16,20 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from Poornima in
 Prasan0704/Prasan0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 ### Technology Stack
 <img src="https://github.com/Prasan0704/Prasan0704/blob/main/c.png" height="40" width="40">  <img src="https://github.com/Prasan0704/Prasan0704/blob/main/Clogo.png" height="40" width="40">  <img src="https://github.com/Prasan0704/Prasan0704/blob/main/MongoDB-Logo.jpg" height="40" width="40">  <img src="https://github.com/Prasan0704/Prasan0704/blob/main/Express.png" height="40" width="40">  <img src="https://github.com/Prasan0704/Prasan0704/blob/main/React.png" height="40" width="40">  <img src="https://github.com/Prasan0704/Prasan0704/blob/main/node.png" height="40" width="40">  <img src="https://github.com/Prasan0704/Prasan0704/blob/main/pylo.png" height="40" width="40">
+
+
+### Reach me on
+<p align="left">
+<a href="https://www.linkedin.com/in/prasan-gupta-808436182" target="blank"> 
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prasan0705" height="30" width="30" /> 
+</a>
+&nbsp;
+<a href="https://instagram.com/prasan.s04" target="blank"> 
+<img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Prasan0705" height="30" width="30" /> </a>
+&nbsp;
+<a href="https://www.hackerrank.com/Prasan0705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prasan0705" height="50" width="60" /></a>
+</p>
