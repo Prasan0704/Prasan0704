@@ -16,3 +16,11 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from Poornima in
 Prasan0704/Prasan0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Technology Stack
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/c.png" height="30" width="30">
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/Clogo.png" height="30" width="30">
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/MongoDB-Logo.jpg" height="30" width="30">
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/Express.png" height="30" width="30">
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/React.png" height="30" width="30">
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/node.png" height="30" width="30">
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/pylo.png" height="30" width="30">
