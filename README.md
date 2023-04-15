@@ -1,4 +1,4 @@
-<img src="https://github.com/Prasan0704/Prasan0704/blob/main/tech.jpg" align="center">
+<p style="text-align:center;"><img src="https://github.com/Prasan0704/Prasan0704/blob/main/tech.jpg" alt="Image"></p>
 <h1 align="center"> Hi, Prasan Gupta -aka Prasan0705 <span></span> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh0620&label=Profile%20views&color=0e75b6&style=flat" alt="harsh0620" /> </p>
   
@@ -10,8 +10,8 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from Poornima in
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently Working and MERN Stack Developer
-- 🌱
-- 🌱
+- 🌱 I'm Tech Lover Ready to Learn Any technologie.
+- 🌱 I also love To learn about Modern trends of Market and also Have knowledge about Big Data 
 
 <!---
 Prasan0704/Prasan0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
