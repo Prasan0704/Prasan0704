@@ -8,7 +8,7 @@
 ---
 
 🌟 **About Me**
-- 🔧 DevOps Engineer with **2.8+ years of experience** in CI/CD, Infrastructure as Code, and Cloud Automation.  
+- 🔧 DevOps Engineer with **2.9+ years of experience** in CI/CD, Infrastructure as Code, and Cloud Automation.  
 - ☁️ Skilled in **AWS (ECS, ECR, EC2, S3, IAM, Lambda)** and **Azure DevOps**.  
 - 🐳 Experienced with **Docker, Kubernetes, Terraform**, and automation using **Python & Bash**.  
 - 📈 Passionate about building **scalable, secure, and cost-optimized infrastructure**.  
