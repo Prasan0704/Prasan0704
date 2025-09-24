@@ -70,11 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasan0704&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center">
-  <!-- Activity graph (reliable) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasan0704&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-</p>
-
+---
 
 ### 📈 Contribution Graph
 
