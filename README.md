@@ -1,6 +1,5 @@
 <!-- header image hosted in your repo (recommended) -->
-<img src="https://cdn.jsdelivr.net/gh/<your-github-username>/<your-repo>@main/assets/devops-header.jpg" width="100%" alt="DevOps Header" />
-
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/tech.jpg" width="100%">
 
 <h1 align="center">Hi 👋, I'm Prasan Gupta - aka Prasan0704 🚀</h1>
 
