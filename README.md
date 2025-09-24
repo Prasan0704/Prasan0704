@@ -75,11 +75,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasan0704&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  <!-- Streak (try demolab). If this errors, use the fallback below. -->
-  <img src="https://streak-stats.demolab.com?user=Prasan0704&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180"/>
-</p>
-
 
 ### 📈 Contribution Graph
 
