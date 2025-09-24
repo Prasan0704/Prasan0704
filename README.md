@@ -78,7 +78,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prasan0704&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasan0704&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 
