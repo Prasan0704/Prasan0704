@@ -1,5 +1,5 @@
 <!-- header image hosted in your repo (recommended) -->
-<img src="https://github.com/Prasan0704/Prasan0704/blob/main/devops1.jpg" width="100%">
+<img src="https://github.com/Prasan0704/Prasan0704/blob/main/1742537933374.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Prasan Gupta - aka Prasan0704 🚀</h1>
 
