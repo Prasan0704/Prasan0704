@@ -14,7 +14,7 @@
 - 📈 Passionate about building **scalable, secure, and cost-optimized infrastructure**.  
 - 🚀 Strong believer in **DevOps culture** – automation, collaboration, and continuous improvement.  
 
-![experience](https://img.shields.io/badge/experience-2.8yrs-blue)  
+![experience](https://img.shields.io/badge/experience-2.9yrs-blue)  
 ![focus](https://img.shields.io/badge/focus-DevOps%20&%20Cloud-brightgreen)  
 ![location](https://img.shields.io/badge/location-Udaipur,%20India-orange)
 
